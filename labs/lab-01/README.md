@@ -9,4 +9,4 @@ In this lab we'll work on some data processing in python using numpy and pandas.
 
 ## Getting the solution
 
-You can find the solution in `starter/process-data.ipynb`.
+You can find the solution in `final/process-data.ipynb`.
